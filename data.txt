@@ -1,0 +1,25 @@
+//configs
+
+#First type commenting
+Home={Inicial Pag};
+
+#Title
+Title={Virtual Shop}
+
+#Bonus % 
+// Max 200
+bonus={60}
+
+//Protection Admin Access
+Address = {191.222.62.922}
+
+#Porcent random for luck
+rand={10,70,100}
+
+#Dev
+DevelopermentBy={Naelson Saraiva}
+
+// Rules news1,2,3 etc.. title, content, hours,
+news1={MyTitle,Lorem Ipsum adalah text contoh digunakan didalam industri pencetakan dan typesetting. Lorem Ipsum telah menjadi text contoh semenjak tahun ke 1500an, apabila pencetak yang kurang terkenal mengambil sebuah galeri cetak dan merobakanya menjadi satu bu ku spesimen.,2019-01-13 10:33:30}
+news2={MyTitle,Lorem Ipsum adalah text contoh digunakan didalam industri pencetakan dan typesetting. Lorem Ipsum telah menjadi text contoh semenjak tahun ke 1500an, apabila pencetak yang kurang terkenal mengambil sebuah galeri cetak dan merobakanya menjadi satu bu ku spesimen.,2019-01-13 10:33:30}
+news3={MyTitle,Lorem Ipsum adalah text contoh digunakan didalam industri pencetakan dan typesetting. Lorem Ipsum telah menjadi text contoh semenjak tahun ke 1500an, apabila pencetak yang kurang terkenal mengambil sebuah galeri cetak dan merobakanya menjadi satu bu ku spesimen.,2019-01-13 10:33:30}
